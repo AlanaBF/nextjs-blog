@@ -6,6 +6,7 @@
     "start": "next start"
   },
   "dependencies": {
+    "bootstrap": "^5.2.3",
     "clsx": "^1.2.1",
     "date-fns": "^2.29.3",
     "gray-matter": "^4.0.3",

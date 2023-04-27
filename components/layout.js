@@ -3,14 +3,15 @@ import Image from 'next/image';
 import styles from './layout.module.css';
 import utilStyles from '../styles/utils.module.css';
 import Link from 'next/link';
-
+import Navbar from './navbar';
 const name = 'Alana Barrett-Frew';
 export const siteTitle = 'AlanaBF Blog Site';
 
 export default function Layout({ children, home }) {
   return (
     <div className={styles.container}>
-      <Head>
+       
+        <Head>
         <link rel="icon" href="/favicon.ico" />
         <meta
           name="description"
@@ -25,14 +26,16 @@ export default function Layout({ children, home }) {
         <meta name="og:title" content={siteTitle} />
         <meta name="twitter:card" content="summary_large_image" />
       </Head>
+   <Navbar/>
       <header className={styles.header}>
+     
         {home ? (
           <>
             <Image
               priority
               src="/images/profile.jpg"
               className={utilStyles.borderCircle}
-              height={164}
+              height={184}
               width={144}
               alt=""
             />
@@ -45,7 +48,7 @@ export default function Layout({ children, home }) {
                 priority
                 src="/images/profile.jpg"
                 className={utilStyles.borderCircle}
-                height={108}
+                height={138}
                 width={108}
                 alt=""
               />
@@ -58,6 +61,7 @@ export default function Layout({ children, home }) {
           </>
         )}
       </header>
+     
       <main>{children}</main>
       {!home && (
         <div className={styles.backToHome}>
