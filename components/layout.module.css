@@ -1,6 +1,6 @@
 .container {
   width: 100%;
-  padding: 1rem 10rem;
+  padding: 1rem 5rem;
   margin: 3rem auto 6rem;
   background-color: #181d31;
   color: #caf0f8;
@@ -21,4 +21,26 @@
 .backToHome {
   margin: 3rem 0 0;
   color: #caf0f8;
+}
+
+@media (max-width: 600px) {
+ 
+  .container {
+    width: 100%;
+    padding: 1rem 3rem;
+    margin: 1rem auto 1rem;
+    background-color: #181d31;
+    color: #caf0f8;
+  }
+}
+
+@media (max-width: 1000px) {
+ 
+  .container {
+    width: 100%;
+    padding: 1rem 2rem;
+    margin: 1rem auto 1rem;
+    background-color: #181d31;
+    color: #caf0f8;
+  }
 }
