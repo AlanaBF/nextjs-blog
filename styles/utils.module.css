@@ -4,6 +4,8 @@
     font-weight: 800;
     letter-spacing: -0.05rem;
     margin: 1rem 0;
+    color: #181d31;
+    
   }
   
   .headingXl {
@@ -26,7 +28,7 @@
   }
   
   .borderCircle {
-    border-radius: 9999px;
+    border-radius: 100%;
   }
   
   .colorInherit {
@@ -34,7 +36,7 @@
   }
   
   .padding1px {
-    padding-top: 1px;
+    padding-top: 1rem;
   }
   
   .list {

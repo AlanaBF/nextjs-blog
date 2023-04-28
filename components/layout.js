@@ -10,8 +10,8 @@ export const siteTitle = 'AlanaBF Blog Site';
 export default function Layout({ children, home }) {
   return (
     <div className={styles.container}>
-       
-        <Head>
+       <Navbar/>
+        <Head>  
         <link rel="icon" href="/favicon.ico" />
         <meta
           name="description"
@@ -25,8 +25,9 @@ export default function Layout({ children, home }) {
         />
         <meta name="og:title" content={siteTitle} />
         <meta name="twitter:card" content="summary_large_image" />
-      </Head>
-   <Navbar/>
+      
+       </Head>
+ 
       <header className={styles.header}>
      
         {home ? (

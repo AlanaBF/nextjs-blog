@@ -1,15 +1,24 @@
 .container {
-    max-width: 36rem;
-    padding: 0 1rem;
-    margin: 3rem auto 6rem;
-  }
-  
-  .header {
-    display: flex;
-    flex-direction: column;
-    align-items: center;
-  }
-  
-  .backToHome {
-    margin: 3rem 0 0;
-  }
+  width: 100%;
+  padding: 1rem 10rem;
+  margin: 3rem auto 6rem;
+  background-color: #181d31;
+  color: #caf0f8;
+}
+
+.header {
+  display: flex;
+  background-position: center;
+  margin: 0;
+  align-items: center;
+  background-image: url("../public/images/maldives.jpg");
+  color: #caf0f8;
+  border: rgb(5, 85, 146) solid 1rem;
+  border-radius: 20px;
+  width: 100%;
+}
+
+.backToHome {
+  margin: 3rem 0 0;
+  color: #caf0f8;
+}
