@@ -81,6 +81,30 @@
   height: 1em;
 }
 
+.button {
+  color: var(--dark-blue) !important;
+  margin-top: 1% !important;
+  margin-bottom: 10% !important;
+    display: flex;
+  justify-content: space-around;
+  margin: 0% 20% 0% 20%;
+  align-items: center;
+}
+
+
+.fa {
+  font-size: 6rem;
+  font-weight: bold;
+  color: rgb(5, 85, 146) !important;
+}
+
+.fa:hover {
+  font-size: 5rem;
+}
+
+
+
+
 @media (max-width: 600px) {
   .grid {
     width: 100%;

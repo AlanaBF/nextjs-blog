@@ -4,7 +4,6 @@ import utilStyles from '../styles/utils.module.css';
 import { getSortedPostsData } from '../lib/posts';
 import Link from 'next/link';
 import Date from '../components/date';
-
 export async function getStaticProps() {
   const allPostsData = getSortedPostsData();
   return {
@@ -23,10 +22,21 @@ export default function Home({allPostsData}) {
         <p>Welcome to my blog space. Join me on my journey as I take a massive leap into the unknown with a career change from Teacher to Front End Web Developer</p>
         <p>
           (If you like what you read and would like to know more, please visit{' '}
-          <a href="https://alanabarrettfrew.com"> my website</a>.)
+          <a className={utilStyles.socialmedialinks} href="https://alanabarrettfrew.com"> my website, or find me on: </a>   <span>
+        <a className={utilStyles.socialmedialinks} href="https://twitter.com/AlanaBF81">
+          <i className="fa fa-twitter"></i>
+        </a>
+        <a className={utilStyles.socialmedialinks} href="https://github.com/AlanaBF">
+          <i className="fa fa-github"></i>
+        </a>
+        <a className={utilStyles.socialmedialinks} href="https://www.linkedin.com/in/alanabarrettfrew">
+          <i className="fa fa-linkedin"></i>
+        </a>
+      </span>.)
         </p>
+      
       </section>
-      <section className={`${utilStyles.headingMd} ${utilStyles.padding1px}`}>
+      <section className={`${utilStyles.blogcard} ${utilStyles.padding1px}`}>
         <h2 className={utilStyles.headingLg}>Blog</h2>
         <ul className={utilStyles.list}>
           {allPostsData.map(({ id, date, title }) => (

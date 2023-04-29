@@ -25,6 +25,33 @@
   .headingMd {
     font-size: 1.2rem;
     line-height: 1.5;
+    background-color: #caf0f8;
+    border: rgb(5, 85, 146) solid 10px;
+    border-radius: 10px;
+    margin: 10px;
+    text-align: center;
+    color:#181d31;
+    padding: 1rem;
+  }
+
+  .blogcard {
+    font-size: 1.2rem;
+    line-height: 1.5;
+    width: -moz-fit-content; 
+    width:fit-content;
+    background-color: #caf0f8;
+    border: rgb(5, 85, 146) solid 10px;
+    border-radius: 10px;
+    margin: auto;
+    text-align: center;
+    color:#181d31;
+    padding: 1rem;
+  }
+
+  .socialmedialinks {
+    text-decoration: none;
+    padding: 1rem;
+    color: rgb(5, 85, 146) !important;
   }
   
   .borderCircle {
