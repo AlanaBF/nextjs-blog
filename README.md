@@ -38,25 +38,13 @@ This repository contains the code and content for my personal blog page. It show
 
 ## Usage
 
-To use or contribute to this blog page, follow these steps:
+To use or contribute to this blog page:
 
-1. Clone the repository to your local machine using the following command:
+1. Git clone the repository.
 
-   ```bash
-   git clone https://github.com/your-username/nextjs-blog.git
+2. Explore the articles, search for specific topics, and navigate through the pages to get familiar with the blog's content.
 
-2. Navigate to the project directory:
-
-   ```bash
-   cd nextjs-blog
-
-3. Open the `index.html` file in your preferred web browser to view the blog page locally.
-
-4. Explore the articles, search for specific topics, and navigate through the pages to get familiar with the blog's content.
-
-## License
-
-This project is licensed under the MIT License.
+3. Fork the repository to contribute.
 
 ## Acknowledgements
 
