@@ -3,38 +3,32 @@ title: 'Always Learning!'
 date: '2023-05-10'
 ---
 
-Always Learning! I suppose as a teacher I have always tried to share my passion for learning through the lessons I teach. Now as I embark on a career change journey I am actively demonstrating my own passion for learning.
 
-Throughout my career I have always tried to further myself and learn new things. I love it, but I have never come across anything yet that has gripped me as much as Web Development has. I want to do it all the time, genuinely love it, and when I'm not learning new skills through a course, I'm trying to put what I've learnt into practice or coming up with ideas. It's become a bit of an obsession!
+As a teacher, I have always strived to share my passion for learning through the lessons I teach. Now, as I embark on a career change journey, I am actively demonstrating my own enthusiasm for continuous learning.
 
-The prospect of not having a job is a big worry though. With a mortgage to pay and the tech job market being so overwhelmed at the moment with people like me looking for work, I am trying to upskill whilst also looking at a backup plan.
+Throughout my career, I have consistently sought personal growth and embraced new knowledge. However, I have never encountered anything that has captivated me as much as web development. It has become a genuine love, occupying my time and thoughts. I'm constantly learning new skills through courses, applying what I've learned, and generating ideas. It has truly become an obsession!
 
-So what am I currently learning?
+While the prospect of being without a job is concerning, especially with financial commitments like a mortgage, I am taking steps to upskill while exploring backup plans.
 
-Well...
+So, what am I currently learning?
 
-I am currently completing a 4 day course run by *[Kick Off in Business](https://www.kickoffinbusiness.co.uk/)*, which is a funded course.
+- I am in the process of completing a 4-day course offered by *[Kick Off in Business](https://www.kickoffinbusiness.co.uk/)*, which is a funded course. Upon completion, I will receive two SFEDI Level 1 qualifications:
+  - Level 1 Award in Understanding Enterprise
+  - Level 1 Extended Award in Passport to Enterprise and Employment
 
-This will give me two SFEDI Level 1 qualifications:
-- Level 1 Award in Understanding Enterprise
-- Level 1 Extended Award in Passport to Enterprise and Employment
+- Additionally, I am deepening my web development knowledge by working through the Udemy course titled "The Complete 2023 Web Development Bootcamp" by Dr. Angela Yu. This comprehensive course covers topics ranging from HTML, CSS, and JavaScript to Node.js, React, MongoDB, Web3, and DApps. It provides a solid foundation for becoming a full-stack web developer.
 
-I am looking at the option of being a freelance Web Developer and Maths Tutor whilst I look for a permanent job.
+I find particular joy in exploring the backend side of coding, including Node.js, Express, and recently, templating with EJS. It's fascinating to discover the multitude of approaches to achieve similar results. The world of web development is an ever-evolving and captivating realm.
 
-I am also continuing to develop my Web Development Knowledge and so I am working my way through an Udemy Course: The Complete 2023 Web Development Bootcamp by Dr Angela Yu
+When it comes to learning complex content, I have discovered that repetition is key. To solidify my understanding, I employ a spaced repetition process:
+- Learn the content.
+- Revise it within 24 hours.
+- Review it again after 3 days.
+- Repeat the revision after 7 days.
+- Gradually increase the time between each revision until the knowledge is firmly embedded in long-term memory.
 
-- *Become a Full-Stack Web Developer with just ONE course.*
+Furthermore, I am embracing the realization that there is an abundance of information to absorb, and I don't need to memorize everything. Documentation and resources like Google are invaluable tools in the learning process.
 
-- *HTML, CSS, Javascript, Node, React, MongoDB, Web3 and DApps*
+In this journey of constant learning and growth, I am excited to discover new horizons and push the boundaries of my skills.
 
-I am particularly enjoying learning more about the backend side of coding with Node.js, Express and most recently about templating with EJS. There are so many different ways to achieve a similar result. It's a fascinating new world...
-
-With learning new and complex content one thing I have learnt is that repetition is key so I try where I can in all the excitement of wanting to learn as much as I can to revise content by a process of space repetition:
-
-- This involves learning the content
-- Revise it within 24 hours
-- Then revise again 3 days later
-- Then revise again 7 days later
-- Gradually increasing the time between each revision until it is committed to long term memory.
-
-I'm also learning that there is so much to learn that you don't have to remember it all as that is what the documentation is for... and Google!
+_"Education is not the learning of facts, but the training of the mind to think." - Albert Einstein_

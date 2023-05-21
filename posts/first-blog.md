@@ -3,20 +3,18 @@ title: 'First Blog Ever!'
 date: '2023-04-27'
 ---
 
-Welcome to my blog site where I am going to try and share my journey as I leave Teaching and and try and make my way into the Tech world as a Front End Web Developer!
+Welcome to my blog! Here, I will document my journey as I transition from teaching to becoming a Front End Web Developer in the exciting world of technology.
 
-It's been the most amazing 20 teaching years of highs and lows and everything between. I consider myself thoroughly lucky to have been given the opportunities I have had. In particular, with my latest role where I have built a school farm, introduced an Animal Care BTEC and introduced and Managed the Duke of Edinburgh Award, but also to have had the opportunity to live in Spain and work in a British School there and to live and work in a boarding school as a Sports Coach, Teacher and House Parent. I've taught, Maths, PE and Geography and a whole host of other subjects as required. Overall a highly successful and enjoyable teaching career
+For the past 20 years, I have had the privilege of being a teacher, experiencing the highs and lows that come with the profession. I am incredibly grateful for the opportunities I've had, including building a school farm, introducing an Animal Care BTEC program, and managing the Duke of Edinburgh Award. I've also had the chance to work in a British school in Spain and as a Sports Coach, Teacher, and House Parent in a boarding school. Throughout my teaching career, I have taught subjects like Maths, PE, Geography, and various other subjects as required. It has been a highly successful and enjoyable journey.
 
-Whilst I am sad to be leaving, with the education system as it is, I feel it is the right time to leave teaching and finally do something for me... This is the first time I have actually left school... ever ... and I'm 41!!!
+While I feel a sense of sadness leaving teaching, I believe it's the right time to pursue something for myself. This marks the first time I am venturing outside of the school environment at the age of 41!
 
-I'm so excited to get started and see where my journey takes me. Ive just completed an intensive 16 week bootcamp in Front End Web Development which I stumbled across on the Governments Skills for Life website and worked with the most fabulous and inspiring instruction team. EdX, I am very grateful for the opportunity. I'm also thrilled to keep in contact and continue to code with the team members I completed my two projects with.
+I am filled with excitement as I embark on this new chapter. Recently, I completed a 16-week intensive bootcamp in Front End Web Development, which I discovered on the Government's Skills for Life website. I had the privilege of learning from a fabulous and inspiring instructional team. I am grateful to EdX for providing this opportunity. I'm also thrilled to continue coding and stay in touch with the team members I collaborated with on my projects.
 
-As I try now to find my first job in the Tech industry I know its going to be a tough journey but am so excited to see where this new path takes me.
+As I now search for my first job in the Tech industry, I am aware that the journey ahead will be challenging. However, I am eager to embrace this new path and see where it leads me.
 
-We have one chance at life and you never know what's around the corner...
+Life offers us one chance, and we never know what awaits us around the corner...
 
-So...
+So here's to the first page in my new chapter.
 
-_"If you always do what you've always done, you will always get what you've always got."_ (Henry Ford)
-
-#### Here's to the first page in my new chapter...
+_"If you always do what you've always done, you will always get what you've always got."_ - Henry Ford
