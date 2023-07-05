@@ -15,19 +15,19 @@ Alongside my passion for coding, I value the importance of downtime to recharge 
 
 Inside the van, I have added playful and artistic touches, including different vinyl prints, to infuse the space with color and personality. I have also installed a foldable table for practicality, enabling me to enjoy meals or work on projects while on the go.
 
-![Image 2](/images/IMG_2566.jpeg)
+![Image 2](/images/IMG_2566.jpg)
 
 *Van improvements*
 
 In my garden, I have created a lovely oasis of tranquility, a place where I can relax and find inspiration.
 
-![Image 3](/images/IMG_2568.jpeg)
+![Image 3](/images/IMG_2568.jpg)
 
 *Gardening Project Weather*
 
 By combining walks on the beach, my van transformation, and gardening projects with my web development endeavors, I have created a delightful fusion of creativity, functionality, and natural beauty. This brings me joy and fulfillment on my journey as a web developer and an outdoor enthusiast.
 
-![Image 1](/images/IMG_2481.jpeg)
+![Image 1](/images/IMG_2481.jpg)
 
 *Sunset Beach Walk, Watergate Bay, Cornwall*
 

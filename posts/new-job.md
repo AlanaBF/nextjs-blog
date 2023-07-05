@@ -5,7 +5,7 @@ date: '2023-07-05'
 
 I've secured my first job in tech! Woohoo 🥳🤩🥰 It has been an exhilarating journey since I left my teaching career and embarked on a thrilling path of upskilling and retraining for a career change into the world of Tech. Breaking into this sector during a time of layoffs and fierce competition from established developers has been challenging, but I have gone above and beyond to ensure my success.
 
-![Tech Job](/images/Version1.webp)
+![Tech Job](/images/Version1.jpg)
 
 Thank you to Version 1 for this awesome opportunity as I embark on my career as an Associate Consultant on their Accelerate Digital Academy. I can't wait to get started. I begin my journey with 12 weeks of training followed by 18 months assigned to a Version 1 Team. My first week starts on the 10th July 2023 with 2 company days at the Redditch Office.
 
